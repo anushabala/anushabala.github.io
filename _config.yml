@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Anusha Balakrishnan"
   avatar           : "profile.png"
-  bio              : "Conversational AI Researcher at Microsoft Semantic Machines, focusing on making natural language generation systems more expressive and fluent. Previously a researcher at Facebook Conversational AI, and a Master's student at Stanford working with Percy Liang on collaborative dialogue games."
-  location         : ""
+  bio              : "Conversational AI researcher at Microsoft Semantic Machines, focusing on natural language generation"
   employer         : Microsoft Semantic Machines
   googlescholar    : "https://scholar.google.com/citations?user=AOqzUmwAAAAJ&hl=en"
   email            : 
